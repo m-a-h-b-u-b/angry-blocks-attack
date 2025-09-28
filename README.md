@@ -12,5 +12,5 @@ Features:
 
 **License:** Apache 2.0  
 **Author:** Md Mahbubur Rahman  
-**Play Online:** [https://m-a-h-b-u-b.github.io](https://m-a-h-b-u-b.github.io)  
+**Play Online:** [https://m-a-h-b-u-b.github.io/angry-blocks-attack/](https://m-a-h-b-u-b.github.io/angry-blocks-attack/)  
 **GitHub Repo:** [https://github.com/m-a-h-b-u-b/angry-blocks-attack](https://github.com/m-a-h-b-u-b/angry-blocks-attack)
